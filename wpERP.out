@@ -1,0 +1,118 @@
+2019-11-15 15:23:59 Register:28 - User should redirect on Registration Page
+2019-11-15 15:24:00 Register:30 - User has been entered his firstname
+2019-11-15 15:24:00 Register:32 - User has been entered his lastname
+2019-11-15 15:24:01 Register:34 - User has been entered his Phone
+2019-11-15 15:24:01 Register:36 - User has been entered his username
+2019-11-15 15:24:01 Register:38 - User has been entered his Address1
+2019-11-15 15:24:02 Register:40 - User has been entered his Address2
+2019-11-15 15:24:02 Register:42 - User has been entered his city
+2019-11-15 15:24:02 Register:44 - User has been entered his state
+2019-11-15 15:24:03 Register:46 - User has been entered his postalcode
+2019-11-15 15:24:08 Register:48 - User has been selected country
+2019-11-15 15:27:55 Register:28 - User should redirect on Registration Page
+2019-11-15 15:27:55 Register:30 - User has been entered his firstname
+2019-11-15 15:27:55 Register:32 - User has been entered his lastname
+2019-11-15 15:27:55 Register:34 - User has been entered his Phone
+2019-11-15 15:27:56 Register:36 - User has been entered his username
+2019-11-15 15:27:56 Register:38 - User has been entered his Address1
+2019-11-15 15:27:56 Register:40 - User has been entered his Address2
+2019-11-15 15:27:56 Register:42 - User has been entered his city
+2019-11-15 15:27:57 Register:44 - User has been entered his state
+2019-11-15 15:27:57 Register:46 - User has been entered his postalcode
+2019-11-15 15:28:02 Register:48 - User has been selected country
+2019-11-15 15:28:02 Register:50 - User has been entered his email/User ID
+2019-11-15 15:28:03 Register:52 - User has been entered his password
+2019-11-15 15:28:03 Register:54 - User has been entered his confirm password
+2019-11-15 15:28:05 Register:56 - System should display success message
+2019-11-15 15:28:05 Register:58 - System should display success message with userName
+2019-11-15 15:28:07 Register:60 - System should display sign on page
+2019-11-15 15:28:07 LoginClass:31 - User has been entered username & password successfully.
+2019-11-15 15:28:10 LoginClass:33 - User should redirect on dashboard page.
+2019-11-15 15:28:10 LoginClass:35 - System should display sign off button.
+2019-11-15 15:39:01 Register:28 - User should redirect on Registration Page
+2019-11-15 15:39:01 Register:30 - User has been entered his firstname
+2019-11-15 15:39:02 Register:32 - User has been entered his lastname
+2019-11-15 15:39:02 Register:34 - User has been entered his Phone
+2019-11-15 15:39:02 Register:36 - User has been entered his username
+2019-11-15 15:39:03 Register:38 - User has been entered his Address1
+2019-11-15 15:39:03 Register:40 - User has been entered his Address2
+2019-11-15 15:39:03 Register:42 - User has been entered his city
+2019-11-15 15:39:03 Register:44 - User has been entered his state
+2019-11-15 15:39:03 Register:46 - User has been entered his postalcode
+2019-11-15 15:39:08 Register:48 - User has been selected country
+2019-11-15 15:39:09 Register:50 - User has been entered his email/User ID
+2019-11-15 15:39:09 Register:52 - User has been entered his password
+2019-11-15 15:39:09 Register:54 - User has been entered his confirm password
+2019-11-15 15:39:11 Register:56 - System should display success message
+2019-11-15 15:39:12 Register:58 - System should display success message with userName
+2019-11-15 15:39:13 Register:60 - System should display sign on page
+2019-11-15 15:40:32 Register:28 - User should redirect on Registration Page
+2019-11-15 15:40:32 Register:30 - User has been entered his firstname
+2019-11-15 15:40:33 Register:32 - User has been entered his lastname
+2019-11-15 15:40:33 Register:34 - User has been entered his Phone
+2019-11-15 15:40:33 Register:36 - User has been entered his username
+2019-11-15 15:40:34 Register:38 - User has been entered his Address1
+2019-11-15 15:40:34 Register:40 - User has been entered his Address2
+2019-11-15 15:40:34 Register:42 - User has been entered his city
+2019-11-15 15:40:34 Register:44 - User has been entered his state
+2019-11-15 15:40:34 Register:46 - User has been entered his postalcode
+2019-11-15 15:40:39 Register:48 - User has been selected country
+2019-11-15 15:40:40 Register:50 - User has been entered his email/User ID
+2019-11-15 15:40:40 Register:52 - User has been entered his password
+2019-11-15 15:40:40 Register:54 - User has been entered his confirm password
+2019-11-15 15:40:42 Register:56 - System should display success message
+2019-11-15 15:40:43 Register:58 - System should display success message with userName
+2019-11-15 15:40:44 Register:60 - System should display sign on page
+2019-11-15 15:40:44 LoginClass:31 - User has been entered username & password successfully.
+2019-11-15 15:40:47 LoginClass:33 - User should redirect on dashboard page.
+2019-11-15 15:40:47 LoginClass:35 - System should display sign off button.
+2019-11-18 11:45:07 Register:28 - User should redirect on Registration Page
+2019-11-18 11:45:07 Register:30 - User has been entered his firstname
+2019-11-18 11:45:08 Register:32 - User has been entered his lastname
+2019-11-18 11:45:08 Register:34 - User has been entered his Phone
+2019-11-18 11:45:08 Register:36 - User has been entered his username
+2019-11-18 11:45:09 Register:38 - User has been entered his Address1
+2019-11-18 11:45:09 Register:40 - User has been entered his Address2
+2019-11-18 11:45:09 Register:42 - User has been entered his city
+2019-11-18 11:45:09 Register:44 - User has been entered his state
+2019-11-18 11:45:09 Register:46 - User has been entered his postalcode
+2019-11-18 11:45:15 Register:48 - User has been selected country
+2019-11-18 11:45:15 Register:50 - User has been entered his email/User ID
+2019-11-18 11:45:16 Register:52 - User has been entered his password
+2019-11-18 11:45:16 Register:54 - User has been entered his confirm password
+2019-11-18 11:45:21 Register:56 - System should display success message
+2019-11-18 11:45:22 Register:58 - System should display success message with userName
+2019-11-18 11:45:22 Register:60 - System should display sign on page
+2019-11-18 11:45:23 LoginClass:31 - User has been entered username & password successfully.
+2019-11-18 11:45:26 LoginClass:33 - User should redirect on dashboard page.
+2019-11-18 11:45:26 LoginClass:35 - System should display sign off button.
+2019-11-19 11:47:57 Register:28 - User should redirect on Registration Page
+2019-11-19 11:47:58 Register:30 - User has been entered his firstname
+2019-11-19 11:47:58 Register:32 - User has been entered his lastname
+2019-11-19 11:47:58 Register:34 - User has been entered his Phone
+2019-11-19 11:47:59 Register:36 - User has been entered his username
+2019-11-19 11:47:59 Register:38 - User has been entered his Address1
+2019-11-19 11:47:59 Register:40 - User has been entered his Address2
+2019-11-19 11:47:59 Register:42 - User has been entered his city
+2019-11-19 11:48:00 Register:44 - User has been entered his state
+2019-11-19 11:48:00 Register:46 - User has been entered his postalcode
+2019-11-19 11:48:05 Register:48 - User has been selected country
+2019-11-19 11:48:06 Register:50 - User has been entered his email/User ID
+2019-11-19 11:48:07 Register:52 - User has been entered his password
+2019-11-19 11:48:07 Register:54 - User has been entered his confirm password
+2019-11-19 11:50:00 Register:56 - System should display success message
+2019-11-19 12:17:13 Register:28 - User should redirect on Registration Page
+2019-11-19 12:17:14 Register:30 - User has been entered his firstname
+2019-11-19 12:17:15 Register:32 - User has been entered his lastname
+2019-11-19 12:17:17 Register:34 - User has been entered his Phone
+2019-11-19 12:17:19 Register:36 - User has been entered his username
+2019-11-19 12:17:21 Register:38 - User has been entered his Address1
+2019-11-19 12:17:22 Register:40 - User has been entered his Address2
+2019-11-19 12:17:24 Register:42 - User has been entered his city
+2019-11-19 12:17:25 Register:44 - User has been entered his state
+2019-11-19 12:17:26 Register:46 - User has been entered his postalcode
+2019-11-19 12:17:32 Register:48 - User has been selected country
+2019-11-19 12:17:33 Register:50 - User has been entered his email/User ID
+2019-11-19 12:17:33 Register:52 - User has been entered his password
+2019-11-19 12:17:34 Register:54 - User has been entered his confirm password
+2019-11-19 12:21:35 Register:56 - System should display success message
